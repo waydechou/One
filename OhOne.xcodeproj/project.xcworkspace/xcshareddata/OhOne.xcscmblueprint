@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "579F5F35C125056091E174E933C4EBAF34E5171C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE" : 0,
+    "579F5F35C125056091E174E933C4EBAF34E5171C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78F9BF7C-F58B-43BB-81AA-D13E8CC7E2BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE" : "",
+    "579F5F35C125056091E174E933C4EBAF34E5171C" : "One\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OhOne",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OhOne.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/waydechou\/MarsMock.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F7C34869E17FFAC3DD711067C7EA8C5885ACBDE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/waydechou\/One.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "579F5F35C125056091E174E933C4EBAF34E5171C"
+    }
+  ]
+}
